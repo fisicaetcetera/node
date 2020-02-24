@@ -16,11 +16,13 @@
 {"lat":-5.8926137,"lon":-35.2001561,"date":"2020-02-14T14:53:48.802Z","status":"server: success!","timestamp":1581692009483,"_id":"6jit0eLcsV1RFeMB"}
 {"lat":-5.8982747,"lon":-35.2709643,"date":"2020-02-13T20:02:11.787Z","status":"server: success!","timestamp":1581624132510,"_id":"74fQYYu9A25npKPl"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T00:38:30.467Z","timestamp":1581554310660,"status":"success!","_id":"7QRfYLrb3o1Doq3c"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T12:50:48.145Z","status":"server: success!","timestamp":1582548648148,"_id":"7fSi1eUGRPPn9tLz"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-15T12:51:40.703Z","status":"server: success!","timestamp":1581771100707,"_id":"7i3m5ShYNuUhvWku"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T01:04:35.779Z","timestamp":1581555875782,"status":"success!","_id":"86LyfjevtM0DMm5P"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T22:17:00.845Z","status":"server: success!","timestamp":1581632221041,"_id":"8R2mIRZUB0elGthT"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T14:27:01.664Z","status":"server: success!","timestamp":1581604021670,"_id":"8VKJkF4nkaK349uW"}
 {"lat":-5.8980933,"lon":-35.2708582,"date":"2020-02-14T18:41:52.157Z","status":"server: success!","timestamp":1581705712607,"_id":"95QwI8u3dUbgkiq1"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T13:44:31.405Z","status":"server: success!","timestamp":1582551871427,"_id":"9rDMGUOFQdwMYs57"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T14:27:35.660Z","status":"server: success!","timestamp":1581604055664,"_id":"A7XCyWTrRuVYPcyj"}
 {"lat":-5.867379,"lon":-35.2034802,"date":"2020-02-14T23:15:03.689Z","status":"server: success!","timestamp":1581722103765,"_id":"AqhDez4oiZ1qiBlT"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T01:03:44.213Z","timestamp":1581555824216,"status":"success!","_id":"B8Deo3lkJvvbQTn9"}
@@ -68,7 +70,9 @@
 {"lat":-5.8982767,"lon":-35.2709554,"date":"2020-02-13T20:01:57.371Z","status":"server: success!","timestamp":1581624118192,"_id":"QevKoO4zJE0I9pmz"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T00:34:21.355Z","timestamp":1581554062131,"status":"success!","_id":"RS1dqkDLtdfhi5oj"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T01:01:28.965Z","timestamp":1581555689529,"status":"success!","_id":"RkVvjMO6GGkcLrsO"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T13:49:42.819Z","status":"server: success!","timestamp":1582552182844,"_id":"RktfPEc1RuxLK6m2"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T16:44:17.409Z","status":"server: success!","timestamp":1581612257605,"_id":"S1KvlJmgoP2LNRRc"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T13:41:38.488Z","status":"server: success!","timestamp":1582551698493,"_id":"S8Qke9WBz3kMIiLF"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T14:37:17.269Z","status":"server: success!","timestamp":1581604637278,"_id":"SZgGzDIHCJQO926e"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-17T14:40:23.904Z","status":"server: success!","timestamp":1581950423912,"_id":"SanfVvValXzuK4uu"}
 {"lat":-5.8596715,"lon":-35.2060037,"date":"2020-02-13T16:57:19.720Z","status":"server: success!","timestamp":1581613041060,"_id":"Sg9YQcPUMVLy6Eec"}
@@ -98,6 +102,8 @@
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T18:30:55.818Z","status":"server: success!","timestamp":1581618655839,"_id":"eJXO6VWge5NROHwT"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T00:14:46.923Z","timestamp":1581552886926,"_id":"eKZPVTNPBwtQWFGX"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T14:28:37.092Z","status":"server: success!","timestamp":1581604117097,"_id":"eeVr0iEWCthZjefT"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T13:30:17.978Z","status":"server: success!","timestamp":1582551017983,"_id":"exW4dkaWBQwuKcYn"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T13:30:02.479Z","status":"server: success!","timestamp":1582551002940,"_id":"f8y62bM9JywVmaNU"}
 {"lat":-5.8596715,"lon":-35.2060037,"date":"2020-02-13T23:56:55.427Z","status":"server: success!","timestamp":1581638216633,"_id":"fIwMjL9yiOB1BDO4"}
 {"lat":-5.8596715,"lon":-35.2060037,"date":"2020-02-13T21:52:47.488Z","status":"server: success!","timestamp":1581630769381,"_id":"fnJn4wpRwIzLATm4"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T18:07:04.656Z","status":"server: success!","timestamp":1581617224757,"_id":"gI0YgVrSzAHacIG7"}
@@ -107,9 +113,11 @@
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-17T15:38:30.224Z","status":"server: success!","timestamp":1581953910288,"_id":"iLBpbFBqOhg4TSNC"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T00:00:20.448Z","timestamp":1581552020454,"_id":"iMOTVCnPXYUv6gbv"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T18:01:01.624Z","status":"server: success!","timestamp":1581616861838,"_id":"iwDC50SC5XycEE04"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-22T22:37:31.552Z","status":"server: success!","timestamp":1582411051577,"_id":"j5bTcH8Wo6NjXG8i"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T00:29:54.373Z","timestamp":1581553794548,"status":"success!","_id":"j7YWmgHPDvaglkmf"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-17T14:41:29.056Z","status":"server: success!","timestamp":1581950489075,"_id":"jKYzzRIUPXGDwv5v"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-11T17:32:57.361Z","timestamp":1581442377370,"_id":"jMzJlS9aGDpnSw4d"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T13:40:01.928Z","status":"server: success!","timestamp":1582551602326,"_id":"jUn7A3uVib4Lre1Q"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T18:48:46.110Z","status":"server: success!","timestamp":1581619726114,"_id":"jmPZ8TYfZ0iETFFS"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-20T22:55:27.167Z","status":"server: success!","timestamp":1582239327190,"_id":"jys475piR29EGTNR"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-11T21:33:07.058Z","timestamp":1581456787589,"_id":"k6x4xdpb3a1LhpbC"}
@@ -144,6 +152,7 @@
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-11T15:33:49.551Z","timestamp":1581435229555,"_id":"w5tS6hbeXP3WfLR4"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T14:24:18.905Z","status":"server: success!","timestamp":1581603859573,"_id":"wgXOnRAX1aDKwdwI"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-11T17:37:46.608Z","timestamp":1581442666617,"_id":"xIFqM4NCyvnkdc0M"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T12:50:45.932Z","status":"server: success!","timestamp":1582548645969,"_id":"xu5m4FC4GmSY9V34"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T14:41:37.309Z","status":"server: success!","timestamp":1581604897311,"_id":"yVbWhcnj9t7MHlxs"}
 {"lat":56.1537024,"lon":10.181017599999999,"date":"2020-02-14T05:43:24.098Z","status":"server: success!","timestamp":1581659005102,"_id":"yaJBTmlfbYRCsyaF"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-20T22:54:35.840Z","status":"server: success!","timestamp":1582239275843,"_id":"yhKxvPqESfWvJ6E3"}
@@ -151,4 +160,5 @@
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-20T22:53:36.072Z","status":"server: success!","timestamp":1582239216076,"_id":"zNWRCVqqZPOVjkHy"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T14:26:55.088Z","status":"server: success!","timestamp":1581604015096,"_id":"zgQhcZd7o9AVwYEF"}
 {"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-13T16:44:23.284Z","status":"server: success!","timestamp":1581612263477,"_id":"zrAfTEpzZcgQslKM"}
-{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-22T22:37:31.552Z","status":"server: success!","timestamp":1582411051577,"_id":"j5bTcH8Wo6NjXG8i"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T12:50:39.189Z","status":"server: success!","timestamp":1582548640587,"_id":"zv0DnWKx5UWmeUoN"}
+{"lat":-5.8673873,"lon":-35.203845199999996,"date":"2020-02-24T13:51:47.089Z","status":"server: success!","timestamp":1582552307112,"_id":"hd4n8JyObZvIXh51"}
