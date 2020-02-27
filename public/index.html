@@ -7,55 +7,32 @@
    <head>
    <meta charset="utf-8" />
    <p> Recarregue a pagina para mandar nova posicao</p>
-  </head>
-  <body>
-      <script>
-        
-        if('geolocation' in navigator)
-        {
-            console.log('geolocation available 🤗️');
-            navigator.geolocation.getCurrentPosition(async position =>
-            {
-                const lat = position.coords.latitude;
-                const lon = position.coords.longitude;
-                document.getElementById('latitude').textContent = lat;
-                document.getElementById('longitude').textContent = lon;
-                
-                var timestamp = Date.now();
-                var date = new Date(timestamp);
-                var status = 'client';
-                document.getElementById('Data').textContent = date;                
-                
-                const data = {lat,lon,date,status,timestamp};
-                console.log(data);
-                console.log(date);
-                const options = {
-                    method: 'POST',
-                    headers:{
-                        'Content-Type': 'application/json'
-                        //'Content-Type': 'application/x-www-form-urlencoder',
-                    },
-                    body: JSON.stringify(data)
-                    
-                };
-                const response = await fetch('/api',options);
-                const servidor = await response.json();
-                const atraso = servidor.timestamp - data.timestamp;
-                //Resposta para o usuario
-                
-                document.getElementById('Atraso').textContent = atraso; 
-                console.log(servidor.timestamp);
-                console.log(servidor.status);
-                console.log(servidor.lat);
-                console.log(servidor.lon);
-                });
-                
+	   <!DOCTYPE html><html><head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  
+  <script src="p5.min.js"></script>
+  <script src="p5.dom.min.js"></script>
+  <script src="p5.sound.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+    <meta charset="utf-8">
+  <style>
+    #mapid {
+      height: 768px;
+    }
+  </style>
+</head>
 
-        }else{
-             console.log('geolocation NOT available')
-            }
-        
-        </script>
+<body>
+    <script src="sketch.js"></script>
+orization
+  <div id="mapid"></div>
 	<h3>Enviando sua posicao <br>
             para o servidor...</h3>
 	<p>latitude: <span id='latitude'></span>&deg;</p> 
